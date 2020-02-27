@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    background-image: linear-gradient(to bottom, #0a2345, #091f3b, #091a32, #081529, #061020);
+    background-repeat: no-repeat;
+}
+.navbar{
+    padding-top: 30px;
+}
+.toggle{
+    color: #2a5ea4;
+}
+.navbar-brand img{
+    width: 70%;
+}
+.banner{
+
+}
+h1{
+    
+color: #fff;
+}
+ h1 span{
+    color: #2a5da3;
+}
+ h6{
+    
+color: #214d89;
+    
+margin-top: 15px;
+    
+margin-bottom: 50px;
+}
+ button{
+    
+color: #fff;
+    
+border: 1px solid #153b6d;
+    
+border-radius: 30px;
+    
+padding: 10px 30px;
+}
+button:hover{
+    color: #fff;
+    border: 3px solid white;
+}
+.feature-row{
+    min-height: 700px;
+    align-items: center;
+}
+.first-item{
+
+}
+.first-item img{
+
+width: 85%;
+}
+.last-item{
+
+}
+.last-item img{
+
+width: 85%;
+
+margin-left: 14%;
+}
+.feature{
+    background-image: url(../images/wave.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
+.headphone{
+    background-image: url(../images/Headphone.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 35px 0;
+    margin: 30px 0;
+}
+.btn-custom{
+    color: #fff;
+    
+border: 1px solid #153b6d;
+    
+border-radius: 30px;
+    
+padding: 10px 30px;
+}
+.btn-custom:hover{
+    color: #fff;
+}
+.feature-one{
+
+padding: 30px 0;
+
+padding-top: 20px;
+}
+.feature-one i{
+    
+color: #ff3334;
+    
+font-size: 30px;
+}
+.feature-one h3{
+    
+color: #fff;
+    
+font-size: 27px;
+}
+.feature-one p{
+    
+color: #2a5da3;
+}
+.feature-details{
+    background-image: url(../images/features.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    /* padding-top: 30px; */
+    padding: 150px 0;
+}
+.overview{
+    background-image: url(../images/graphical-overview.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: contain;
+    padding: 80px 0;
+    margin: 90px 0;
+}
